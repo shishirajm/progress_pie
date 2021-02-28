@@ -4,7 +4,7 @@
 * Test cases are only added for the main logic.
 * Pie and classes in the model can be reused for any input.
 
-#Running the solution
+# Running the solution
 * Clone the repo.
 * Open the repo in PyCharm editor.
 * Set the. Pythong interpreter to venv 3.9.
